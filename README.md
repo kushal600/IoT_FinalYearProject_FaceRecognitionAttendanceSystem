@@ -70,4 +70,13 @@ Contributions are welcome! Follow these steps:
 - OpenCV and aiortc communities for their excellent libraries.
 - Inspiration from various face recognition projects.
 
+---
+
+## Author
+
+- **Kushal Shahpatel**  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shahpatel-kushal-4a4a901b6/)  
+- GitHub: [GitHub Profile](https://github.com/kushal600)
+
+---
 
