@@ -16,6 +16,12 @@ The Face Recognition Attendance System is a web-based application designed to au
 - **aiortc**: WebRTC integration for real-time video handling.
 - **Excel Export**: Automated attendance logging.
 
+## Demo 
+
+
+Watch the demo on [YouTube](https://youtu.be/oEaEhofUkfY).
+
+
 ## Setup Instructions
 
 ### Prerequisites
